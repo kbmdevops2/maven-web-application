@@ -96,13 +96,13 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
+	      <name>walmart Releases Nexus Repository</name>
 	      <url>http://13.233.113.198:8090/kartheek/repository/walmart-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
+	      <name>walmart Snapshot Nexus Repository </name>
 	      <url>http://13.233.113.198:8090/kartheek/repository/walmart-snapshot/</url>
 	    </snapshotRepository>
 	    
